@@ -114,5 +114,3 @@ if st.button("Calculate"):
 * Test calculator by performing different operations
 
 
-![Screenshot2](screenshot2.png)
-![Screenshot3](screenshot3.png)
